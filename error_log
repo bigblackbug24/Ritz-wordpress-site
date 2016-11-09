@@ -1,0 +1,13 @@
+[01-Apr-2016 08:58:56 UTC] PHP Parse error:  syntax error, unexpected 'id' (T_STRING), expecting ']' in /home/evisions/public_html/Ritz/wp-content/themes/Ritz/contact-us.php on line 107
+[01-Apr-2016 08:59:02 UTC] PHP Parse error:  syntax error, unexpected 'id' (T_STRING), expecting ']' in /home/evisions/public_html/Ritz/wp-content/themes/Ritz/contact-us.php on line 107
+[25-Apr-2016 14:01:13 UTC] PHP Parse error:  syntax error, unexpected 'st' (T_STRING), expecting ',' or ')' in /home/evisions/public_html/Ritz/wp-content/themes/Ritz/project-villa.php on line 42
+[25-Apr-2016 14:01:28 UTC] PHP Parse error:  syntax error, unexpected 'st' (T_STRING), expecting ',' or ')' in /home/evisions/public_html/Ritz/wp-content/themes/Ritz/project-villa.php on line 42
+[25-Apr-2016 14:01:42 UTC] PHP Parse error:  syntax error, unexpected 'st' (T_STRING), expecting ',' or ')' in /home/evisions/public_html/Ritz/wp-content/themes/Ritz/project-villa.php on line 42
+[25-Apr-2016 14:02:08 UTC] PHP Parse error:  syntax error, unexpected 'st' (T_STRING), expecting ',' or ')' in /home/evisions/public_html/Ritz/wp-content/themes/Ritz/project-villa.php on line 42
+[25-Apr-2016 14:02:36 UTC] PHP Parse error:  syntax error, unexpected '?>', expecting ',' or ')' in /home/evisions/public_html/Ritz/wp-content/themes/Ritz/project-villa.php on line 41
+[25-Apr-2016 14:02:39 UTC] PHP Parse error:  syntax error, unexpected '?>', expecting ',' or ')' in /home/evisions/public_html/Ritz/wp-content/themes/Ritz/project-villa.php on line 41
+[25-Apr-2016 14:03:27 UTC] PHP Parse error:  syntax error, unexpected '?>', expecting ',' or ')' in /home/evisions/public_html/Ritz/wp-content/themes/Ritz/project-villa.php on line 41
+[25-Apr-2016 14:05:40 UTC] PHP Parse error:  syntax error, unexpected '?>', expecting ',' or ')' in /home/evisions/public_html/Ritz/wp-content/themes/Ritz/project-villa.php on line 36
+[26-Apr-2016 06:01:12 UTC] PHP Parse error:  syntax error, unexpected 'img_url' (T_STRING), expecting ']' in /home/evisions/public_html/Ritz/wp-content/themes/Ritz/project-villa.php on line 38
+[26-Apr-2016 06:03:50 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/evisions/public_html/Ritz/wp-content/themes/Ritz/project-villa.php on line 37
+[29-Apr-2016 12:20:30 UTC] PHP Parse error:  syntax error, unexpected 'id' (T_STRING), expecting ']' in /home/evisions/public_html/Ritz/wp-content/themes/Ritz/contact-us.php on line 133

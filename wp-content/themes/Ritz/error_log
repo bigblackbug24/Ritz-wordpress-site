@@ -1,0 +1,4 @@
+[25-Apr-2016 03:27:42 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/evisions/public_html/Ritz/wp-content/themes/Ritz/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/evisions/public_html/Ritz/wp-content/themes/Ritz/index.php on line 3
